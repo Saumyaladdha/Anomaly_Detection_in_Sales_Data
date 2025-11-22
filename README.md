@@ -199,7 +199,7 @@ The ensemble approach provides:
 - **Recall**: Moderate (conservative threshold)
 - **False Positive Rate**: Low (< 0.1% estimated)
 
-## 🔬 Advanced Analysis Features
+##  Advanced Analysis Features
 
 ### Seasonal Anomaly Detection
 ```python
