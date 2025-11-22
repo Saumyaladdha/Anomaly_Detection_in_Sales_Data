@@ -290,9 +290,6 @@ def detect_seasonal_anomalies(ts_data, period=365):
 
 ### Statistical Foundations
 - [1] Hawkins, D. M. (1980). *Identification of Outliers*
-- [2] Barnett, V. & Lewis, T. (1994). *Outliers in Statistical Data*
-- [3] Liu, F. T., et al. (2008). *Isolation Forest*
-
 ---
 
 ##  Conclusion
