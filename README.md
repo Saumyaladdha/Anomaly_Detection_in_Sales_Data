@@ -108,7 +108,7 @@ combined_anomalies = (zscore_anomalies + iqr_anomalies +
 - **Threshold**: At least 2 out of 4 methods must agree
 - **Benefit**: Reduces false positives and method-specific biases
 
-## 📈 Key Results & Insights
+##  Key Results & Insights
 
 ### Overall Detection Summary
 - **Total Anomalies Detected**: 590 records
