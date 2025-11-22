@@ -11,7 +11,7 @@ Identify anomalous sales patterns in time-series data to enable:
 - Business intelligence insights
 - Proactive decision-making
 
-## 📊 Dataset Description
+##  Dataset Description
 
 ### Basic Statistics
 - **Time Period**: January 1, 2010 - December 31, 2018 (9 years)
